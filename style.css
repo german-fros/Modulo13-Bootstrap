@@ -13,7 +13,8 @@ header h1 {
 }
 
 .carousel img {
-    max-width: 780px;
+    max-height: 400px;
+    
 }
 
 .carousel-item {
